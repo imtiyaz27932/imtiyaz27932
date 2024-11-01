@@ -1,98 +1,110 @@
-<h1 align="center">👋 Hello, I'm Imtiyaz Ahmad</h1>
-<h3 align="center">Automation Test Engineer | Ensuring Quality Through Automation</h3>
+<h1 align="center">👋 Hi, I'm Imtiyaz Ahmad </h1>
+<h3 align="center">QA Engineer | 3+ Years of Experience in Automation & Manual Testing</h3>
+
+---
 
 <p align="center">
-  <a href="https://github.com/imtiyaz27932">
-    <img src="https://img.shields.io/github/followers/imtiyaz27932?label=GitHub&style=social" alt="GitHub Followers">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+QA+Engineer+with+3%2B+years+experience;🚀+Skilled+in+Automation+%26+Manual+Testing;🌟+Passionate+about+Quality+Assurance;🔍+API%2C+Regression%2C+and+Load+Testing" alt="Typing animation"/>
+</div>
+
+---
+
+<img align="right" alt="Coding GIF" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
+### 🛠️ **About Me**
+- 🔍 **Experienced in:**  
+  **Test Automation** (Cypress, Playwright), **Manual Testing**, **API Testing**, **Regression & Performance Testing**
+
+- 💻 **Tech Stack Expertise:**  
+  JavaScript, Cypress, Playwright, Selenium, Postman, JIRA, AWS, Zephyr Scale
+
+- 🚀 **Current Project:**  
+  [Project Tarbiyat](https://github.com/yourusername/project-tarbiyat) (Learning Management System)
+
+- 📈 **Goals:**  
+  To advance automation skills in Playwright and explore **load testing** with K6
+
+- 💬 **Let's Talk About:**  
+  **QA Best Practices**, **Effective Bug Reporting**, and **Automation Frameworks**
+
+- 📫 **Get in Touch:**  
+  imtiyaz.gw@gmail.com
+
+---
+
+<h2 align="center">👨‍💻 Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-172B4D?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-2D79C7?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Zephyr_Scale-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Zephyr Scale" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/yourusername/project-tarbiyat">
+    <img src="https://img.shields.io/badge/-Project%20Tarbiyat%20-blueviolet?style=for-the-badge" alt="Project Tarbiyat" />
   </a>
-  <a href="https://linkedin.com/in/imtiyaz-ahmad-149607200/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/imtiyaz">
-    <img src="https://img.shields.io/twitter/follow/imtiyaz?style=social" alt="Twitter">
+  <a href="https://github.com/yourusername/project-pharmacy">
+    <img src="https://img.shields.io/badge/-Project%20Pharmacy%20-ff69b4?style=for-the-badge" alt="Project Pharmacy" />
   </a>
 </p>
 
 ---
 
-### 👨‍💼 About Me
-- 🔭 Currently working on **Tarbiyat & Pharmacy Projects**
-- 🌱 Currently learning **Playwright, K6, AWS**
-- 💬 Ask me about **Cypress, Playwright, API Testing, Zephyr Squad Jira**
-- 📫 Reach me at: **imtiyaz.gw@gmail.com**
+<h2 align="center">🌐 Languages & Frameworks</h2>
 
----
-
-### 🛠️ Skills & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📫 Connect with Me</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiyaz27932&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=imtiyaz27932&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imtiyaz27932&theme=darkhub&no-frame=true&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
----
-
-### 🎨 Highlight Projects
-<p align="center">
-  <a href="https://github.com/imtiyaz27932/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtiyaz27932&repo=Project1&theme=radical&hide_border=true" alt="Project1">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/imtiyaz27932/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtiyaz27932&repo=Project2&theme=radical&hide_border=true" alt="Project2">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 </p>
 
 ---
 
-### 📞 Connect with Me
+<h2 align="center">🎉 Fun Fact</h2>
+
 <p align="center">
-  <a href="https://dev.to/imtiyaz" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://linkedin.com/in/imtiyaz-ahmad-149607200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/imtiyaz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/imtiyaz_2025/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
----
-
-### 💸 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/imtiyaz" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee">
-  </a>
-  <a href="https://ko-fi.com/imtiyaz" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi">
-  </a>
-</p>
-
----
-
-### 🔥 Fun with SVG Animations
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+about+Automation+Testing;Delivering+High-Quality+Software;Continuously+Learning+New+Tech" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23FF5733&size=24&center=true&vCenter=true&width=600&height=50&lines=🚀+I+never+stop+until+I+find+the+bug!;🐞+Bugs+fear+me!;🧪+Quality+is+my+priority!;✨+I+believe+in+clean+and+efficient+code!" alt="Fun Fact Typing Animation" />
 </p>
