@@ -22,7 +22,7 @@
   **Test Automation** (Cypress, Playwright), **Manual Testing**, **API Testing**, **Regression & Performance Testing**
 
 - 💻 **Tech Stack Expertise:**  
-  JavaScript, Cypress, Playwright, Selenium, Postman, JIRA, AWS, Zephyr Scale
+  JavaScript, Cypress, Playwright, Selenium, Postman, JIRA, AWS, Zephyr Scale, Test Cases and Test Plans, Regression Testing
 
 - 🚀 **Current Project:**  
   [Project Tarbiyat](https://github.com/yourusername/project-tarbiyat) (Learning Management System)
@@ -31,7 +31,7 @@
   To advance automation skills in Playwright and explore **load testing** with K6
 
 - 💬 **Let's Talk About:**  
-  **QA Best Practices**, **Effective Bug Reporting**, and **Automation Frameworks**
+  **QA Best Practices**, **Effective Bug Reporting**, and **Automation Frameworks**, **User Stories and EPICS** , **Test Cases and Test Plan**
 
 - 📫 **Get in Touch:**  
   imtiyaz.gw@gmail.com
@@ -84,6 +84,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Languages" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cypress,playwright,postman,jira,aws,k6" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Zephyr_Scale-0052CC?style=flat-square&logo=atlassian&logoColor=white" height="40" alt="Zephyr Scale" />
+</p>
+
 
 ---
 
